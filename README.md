@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MILICIA BOLIVARIANA DIEGO IBARRA - Sistema de Registro</title>
+    <title>MILICIA BOLIVARIANA DIEGO IBARRA-Sistema de Registro</title>
 
     <!-- Incluimos la librería SheetJS desde un CDN para la exportación a Excel -->
     <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
